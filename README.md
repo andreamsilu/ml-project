@@ -71,8 +71,6 @@ ml-coursework/
 │   ├── train.py          # Training logic
 │   ├── evaluate.py       # Model evaluation and metrics
 │
-├── notebooks/            # For Jupyter Notebooks (optional)
-│   ├── analysis.ipynb    # Exploratory data analysis
 │
 ├── reports/              # Generated reports
 │   ├── results.txt       # Results and accuracy metrics

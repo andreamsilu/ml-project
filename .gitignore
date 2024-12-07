@@ -12,6 +12,8 @@ venv/
 
 # Data files
 data/*.csv
+#notebooks
+notebooks/*.ipynb
 
 # Logs and temporary files
 *.log
