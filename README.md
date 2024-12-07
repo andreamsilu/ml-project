@@ -55,7 +55,7 @@ create  folder named data and store the data files as named below
  dataSet1.csv
  dataSet2.csv
 #Run the project
-  python3 src/main.py
+  python3 main.py
 
 #folder structure 
 ml-coursework/
