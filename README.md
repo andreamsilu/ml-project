@@ -40,17 +40,18 @@ Python dependencies are listed in `requirements.txt`.
 git clone https://github.com/yourusername/ml-coursework.git
 cd ml-coursework
 
+
 python3 -m venv venv
 # Activate the virtual environment
 source venv/bin/activate  # Linux/Mac
 venv\Scripts\activate     # Windows
 
-## **Summary**
-The folder structure ensures modularity and clarity, making it easy to understand, develop, and maintain the project. Each component is organized into its designated folder, simplifying collaboration and scalability.
+ 
 #install dependencies
 pip install -r requirements.txt
 
 #Prepare the Data
+create  folder named data and store the data files as named below
  dataSet1.csv
  dataSet2.csv
 #Run the project
